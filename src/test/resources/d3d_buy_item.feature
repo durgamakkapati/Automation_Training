@@ -8,6 +8,7 @@ Feature:Buying a wifi doorbell item
     And I click on security alarm system
     And I click on "D10- Wi-Fi / GSM Security Alarm System (Advance Pack)"
     And I click on add to cart
+
     And I should see item added to cart
     When I click on  cart
     And click on proceed to checkout
