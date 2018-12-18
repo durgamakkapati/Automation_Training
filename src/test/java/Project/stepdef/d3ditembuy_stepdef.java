@@ -25,21 +25,11 @@ public class d3ditembuy_stepdef extends driverclass {
         item_buy.method2();
     }
 
-    @And("^I click on \"([^\"]*)\"$")
-    public void iClickOn() {
 
-        item_buy.method3();
-    }
-
-    @And("^I click on add to cart$")
-    public void iClickOnAddToCart(String expresults) {
-
-        item_buy.method4(expresults);
-    }
 
     @And("^I should see item added to cart$")
-    public void iShouldSeeItemAddedToCart(String expectedheader_reuslts1) {
-        item_buy.HeaderTextAssertions1(expectedheader_reuslts1);
+    public void iShouldSeeItemAddedToCart(String expectedheader_results1) {
+        item_buy.HeaderTextAssertions1(expectedheader_results1);
 
     }
 
@@ -69,5 +59,17 @@ public class d3ditembuy_stepdef extends driverclass {
     @Then("^I should see paypal checkoutheader page$")
     public void iShouldSeePaypalCheckoutheaderPage(String expectedheader_results2) {
         item_buy.HeaderTextAssertions2(expectedheader_results2);
+    }
+
+    @And("^I click on add to cart$")
+    public void iClickOnAddToCart() throws Throwable {
+        item_buy.method4();
+
+    }
+
+    @And("^I click on \"([^\"]*)\"$")
+    public void iClickOn(String abc) throws Throwable {
+        item_buy.method3();
+
     }
 }
