@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c80e4c49-3a77-4fff-8037-5aefb7a6b690" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Project/pageobjectfiles/d3ditembuy_pagefile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Project/pageobjectfiles/d3ditembuy_pagefile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Project/stepdef/d3ditembuy_stepdef.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Project/stepdef/d3ditembuy_stepdef.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/d3d_buy_item.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/d3d_buy_item.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Project/pageobjectfiles/d3ditembuy_pagefile.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Project/pageobjectfiles/d3ditembuy_pagefile.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Project/stepdef/d3ditembuy_stepdef.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Project/stepdef/d3ditembuy_stepdef.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/d3d_buy_item.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/d3d_buy_item.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/test.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/test.feature" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -59,7 +53,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="5" />
-          <entry key="feature" value="3133" />
+          <entry key="feature" value="3141" />
           <entry key="java" value="11133" />
           <entry key="properties" value="267" />
           <entry key="txt" value="218" />
@@ -68,7 +62,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Cucumber" value="3133" />
+          <entry key="Cucumber" value="3141" />
           <entry key="JAVA" value="11133" />
           <entry key="PLAIN_TEXT" value="223" />
           <entry key="Properties" value="267" />
@@ -123,8 +117,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/resources/test.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="5" lean-forward="true" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+            <state relative-caret-position="68">
+              <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -157,6 +151,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -331,7 +326,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/G S Sastry/IdeaProjects/Automation_training/src/test/java/Project/pageobjectfiles/d3dregpageoutline.java" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545167385796" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545168578509" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -533,7 +528,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29198185" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29198185" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -547,7 +542,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3265306" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3265306" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.5544218" />
@@ -970,8 +965,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/resources/test.feature">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="5" lean-forward="true" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+        <state relative-caret-position="68">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
         </state>
       </provider>
     </entry>
